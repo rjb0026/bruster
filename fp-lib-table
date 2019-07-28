@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name brucester_parts)(type KiCad)(uri ${KIPRJMOD}/brucester_parts/brucester_parts.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /Users/robertbrothers/Documents/KiCad/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+)
